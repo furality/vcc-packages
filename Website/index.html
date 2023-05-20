@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>VCC Listing</title>
+  <title>Furality VRChat Packages</title>
   <script type="module" src="https://unpkg.com/@fluentui/web-components"></script>
   <link rel="stylesheet" href="styles.css">
 </head>
@@ -11,7 +11,7 @@
   <div class="col align-items-center content">
     <div id="listingInfo" class="col mb-4 w-100 align-items-center">
       {{~ if listingInfo.BannerImage; ~}}
-        <div class="bannerImage" style="background-image: url({{ listingInfo.BannerImageUrl }})"></div>
+        <img src="https://media.furality.online/files/web/logo/furality-logo.svg" class="bannerImage">
       {{~ end; ~}}
       <h1>
         {{~ listingInfo.Name ~}}

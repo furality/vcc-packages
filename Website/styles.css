@@ -14,8 +14,9 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  color: var(--neutral-foreground-rest);
+  font-family: Nunito,sans-serif;
+  background-color: #12263f;
+  color: #95aac9;
 }
 
 .hidden {
