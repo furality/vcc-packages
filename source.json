@@ -15,6 +15,7 @@
     "bannerUrl":"banner.png",
     "githubRepos":[
         "furality/vcc-furality-sylva-shader",
-        "furality/vcc-furality-umbra-shader"
+        "furality/vcc-furality-umbra-shader",
+        "furality/vcc-furality-somna-shader"
     ]
 }
